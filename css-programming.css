@@ -1,0 +1,9 @@
+.face {
+  color: darkblue;
+}
+.back {
+  color: lightblue;
+  
+  /*裏側を少し透けるようにする*/
+  opacity: 0.5;
+}
