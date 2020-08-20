@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+    width:700px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.face {
+  color: brown;
+}
+.back {
+  color: white;
+  
+  /*裏側を少し透けるようにする*/
+  opacity: 0.5;
+}
